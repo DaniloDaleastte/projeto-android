@@ -66,7 +66,7 @@ nav {
 }
 
 nav > a {
-    color:#3ddc85cb ;
+    color:#3ddc85cb;
     padding: 10px;
     border-radius: 5px;
     text-decoration: none;
@@ -195,13 +195,13 @@ footer {
     font-size: 0.8em;
 }
 
-footer a {
+footer > a {
     color: #ffffff;
     font-weight: bolder;
     text-decoration: none;
 } 
 
-footer a:hover { 
+footer > a:hover { 
     text-decoration: underline;
     color: #83e1ad;
 }
